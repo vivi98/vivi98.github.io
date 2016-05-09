@@ -1,0 +1,197 @@
+#title {
+	font-style: Comic
+	font-weight: bold;
+	text-align: center;
+	line-height: 2;
+	text-decoration: blink;
+	color: black;
+	font-size: 50px;
+	top: -50%;
+	transform : -50%;
+}
+.subtitle {
+	font-style: Comic;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: blink;
+	color: black;
+	font-size: 50px;
+	top: -50%;
+	transform : -50%;
+}
+
+header {
+	padding-top: 200px;
+	padding-bottom: 150px;
+	
+}
+
+#title {
+	top: 50%;
+	transform: translateY(-50%);
+	position: relative;
+}
+
+.subtitle {
+	top: 50%;
+	transform: translateY(-50%);
+	position: relative;
+}
+
+.navbar ul li a {
+	color: black;
+	margin: 10px;
+	padding: 10px;
+	margin-right: 20px;
+	margin-left: 20px;
+	font-style: comic;
+}
+
+.navbar {
+	background-color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+	display: block;
+	top: 0px;
+}
+
+
+nav {
+	position: fixed;
+	top: 0;
+}
+
+#aboutme {
+	font-style: Comic;
+	color: black;
+	text-align: center;
+	padding-right: 20px;
+	padding-left: 20px;
+	font-size: 20px;
+}
+
+
+body {
+	background-image: url(http://www.vettorialigratis.it/wp-content/uploads/2010/11/sfondo-con-gocce-water-background.jpg);
+	background-position: fixed; 
+	background-webkit-filter: brightness(0.2);
+	background-image: width(100px) height(100px);
+
+}
+
+.section {
+	font-style: Comic;
+	color: black;
+	padding-right: 20px;
+	padding-left: 20px;
+	text-align: center;
+	padding-top: 80px;
+
+
+}
+
+#aboutme2 {
+	font-style: Comic;
+	color: black;
+	text-align: justify;
+	padding-right: 20px;
+	padding-left: 20px;
+	font-size: 20px;
+
+}
+
+#aboutthesite {
+	font-style: Comic;
+	color: black;
+	text-align: center;
+	padding-right: 20px;
+	padding-left: 20px;
+	font-size: 20px;
+
+}
+
+#aboutthesite2 {
+	font-style: Comic;
+	color: black;
+	text-align: justify;
+	padding-right: 20px;
+	padding-left: 20px;
+	font-size: 20px;
+
+}
+
+.contatto1 {
+	font-style: Comic;
+	color: black;
+	float: left;
+	padding-right: 20px;
+	padding-left: 20px;
+	font-size: 20px;
+	text-align: center;
+}
+.contatto1 span{
+	text-decoration: underline;
+}
+
+.contatto2 {
+	font-style: Comic;
+	color: black;
+	float: right;
+	padding-right: 20px;
+	padding-left: 20px;
+	font-size: 20px;
+	text-align: center;
+}
+
+.contatto3 a {
+	text-decoration: underline;
+}
+
+.contatto2 span{
+	text-decoration: underline;
+}
+.contatto3 {
+	font-style: Comic;
+	color: black;
+	float: right;
+	padding-right: 30px;
+	padding-left: 20px;
+	font-size: 20px;
+	float: center;
+	text-align: center;
+}
+
+#contactslink {
+	padding-bottom: 30px;
+	padding-right: 30px;
+	padding-left: 30px;
+
+}
+
+.acaso{
+	display: block;
+}
+
+img {
+	width: 520px;
+	height:520px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	padding:10px;
+   border:20px solid #021a40;
+   background-color:#000000;
+}
+
+.collapse a {
+	transition: 1s;
+}
+
+@media (min-device-width : 320px) and (max-device-width : 480px) {
+/* Smartphone  */
+}
+ 
+@media (min-device-width : 768px) and (max-device-width : 1024px) {
+/* Tablet */
+}</div>
