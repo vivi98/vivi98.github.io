@@ -195,3 +195,10 @@ img {
 @media (min-device-width : 768px) and (max-device-width : 1024px) {
 /* Tablet */
 }</div>
+
+
+#copyrihttext {
+	text-align: center;
+	font-style: Comic;
+
+}
